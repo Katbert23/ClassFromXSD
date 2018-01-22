@@ -1,0 +1,6 @@
+C:\Users\User\Downloads\XsdProxySolution\XsdProxy\bin\Debug\XsdProxy.exe.config
+C:\Users\User\Downloads\XsdProxySolution\XsdProxy\bin\Debug\XsdProxy.exe
+C:\Users\User\Downloads\XsdProxySolution\XsdProxy\bin\Debug\XsdProxy.pdb
+C:\Users\User\Downloads\XsdProxySolution\XsdProxy\obj\Debug\XsdProxy.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\XsdProxySolution\XsdProxy\obj\Debug\XsdProxy.exe
+C:\Users\User\Downloads\XsdProxySolution\XsdProxy\obj\Debug\XsdProxy.pdb
